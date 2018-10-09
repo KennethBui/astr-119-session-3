@@ -4,7 +4,7 @@
 try:
 	print(a)	#this will throw an exception since a is not defined
 except:
-	print("a is not defined?")
+	print("a is not defined!")
 	
 #there are specific errors to help with cases
 try:
